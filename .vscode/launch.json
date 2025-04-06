@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "InteretManagementApplication",
+            "request": "launch",
+            "mainClass": "com.explorateurmboa.interet_management.InteretManagementApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "PointInteteretApplication",
+            "request": "launch",
+            "mainClass": "com.explorateurmboa.point_inteteret.PointInteteretApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "PointInteteretApplication",
+            "request": "launch",
+            "mainClass": "com.explorateurmboa.point_inteteret.PointInteteretApplication",
+            "projectName": "point-inteteret"
+        },
+        {
+            "type": "java",
+            "name": "ArticleManagementApplication",
+            "request": "launch",
+            "mainClass": "com.explorateurmboa.article_management.ArticleManagementApplication",
+            "projectName": "article-management"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "RegistryApplication",
+            "request": "launch",
+            "mainClass": "com.explorateurmboa.registry.RegistryApplication",
+            "projectName": "registry"
+        },
+        {
+            "type": "java",
+            "name": "UserManagementApplication",
+            "request": "launch",
+            "mainClass": "com.explorateurmboa.user_management.UserManagementApplication",
+            "projectName": "user-management"
+        }
+    ]
+}
